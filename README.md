@@ -1,9 +1,9 @@
 ## Bem-Vindo!
 
-Meu nome é **Pedro** sou estudante de desenvolvimento de sistemas da ETEC de Carapicuíba, curioso pela área de tecnologia com foco em desenvolvimento, dados e automação
+Meu nome é **PEDRO SILVA** sou estudante de desenvolvimento de sistemas da ETEC de Carapicuíba.
 
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pedrohenriqueoliv209-gif
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pedrohenriqueoliv209-gif)
 
 )
 
